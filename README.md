@@ -1,1 +1,1 @@
-# nosql-challenge
+# NO-SQL Challenge
