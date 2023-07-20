@@ -26,6 +26,8 @@ The magazine editors have some requested modifications for the database before I
 
 1- An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked me to include it in the analysis. Added the following information to the database:
 
+<img width="493" alt="Penang" src="https://github.com/javsgon/nosql-challenge/assets/125521896/fcd211ff-bdfe-4eeb-8986-81939819d09e">
+
 2- Found the BusinessTypeID for "Restaurant/Cafe/Canteen" and returned only the BusinessTypeID and BusinessType fields.
 
 3- Updated the new restaurant with the BusinessTypeID.
